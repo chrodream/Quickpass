@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_keyboard")(type "KiCad")(uri "${KIPRJMOD}/MCU_keyboard.kicad_sym")(options "")(descr ""))
+)
