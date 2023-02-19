@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 33,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -32,6 +32,8 @@
       2,
       3,
       4,
+      5,
+      7,
       8,
       9,
       10,
@@ -41,6 +43,8 @@
       14,
       15,
       16,
+      17,
+      18,
       19,
       20,
       21,
@@ -57,13 +61,14 @@
       33,
       34,
       35,
-      36
+      36,
+      37
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "fffff00_7ffffffe",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "QuickPass.kicad_prl",
+    "filename": "Quickpass_Lower_1.kicad_prl",
     "version": 3
   },
   "project": {
